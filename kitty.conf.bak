@@ -8,6 +8,6 @@ font_size 14
 # background_opacity 0.9
 
 # BEGIN_KITTY_THEME
-# Cherry Midnight
+# One Dark
 include current-theme.conf
 # END_KITTY_THEME
